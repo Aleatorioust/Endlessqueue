@@ -1,7 +1,3 @@
-Com certeza! Ter o README em inglês é uma excelente ideia para que o seu projeto alcance criadores e desenvolvedores do mundo todo.
-
-Aqui está a tradução completa. Basta copiar o texto abaixo e atualizar o arquivo lá no seu repositório:
-
 ```markdown
 # EndlessQueue 📻
 
